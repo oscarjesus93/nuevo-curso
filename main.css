@@ -1,0 +1,16 @@
+body {
+    color: red;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#footer {
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+div.cabecera>h1 {
+    color: black !important;
+    font-size: 4rem;
+}
